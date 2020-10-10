@@ -20,7 +20,7 @@
 BERTed-BCCWJ の768次元ベクトルです。
 
 ## References
-浅原正幸・加藤祥 (2020) [BERTed-BCCWJ:多層文脈化単語埋め込み情報を付与した『現代日本語書き言葉均衡コーパス』データ](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-5.pdf)
+浅原正幸・加藤祥 (2020) [BERTed-BCCWJ:多層文脈化単語埋め込み情報を付与した『現代日本語書き言葉均衡コーパス』データ](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-5.pdf) 『言語処理学会第26回年次大会発表論文集』
 
 ## License
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
