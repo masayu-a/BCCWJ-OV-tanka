@@ -17,5 +17,8 @@
 
 ## OV-vector.txt
 
-BERTedBCCWJ の768次元ベクトルです
+BERTed-BCCWJ の768次元ベクトルです。
+
+## Acknowledgements
+本データは科研費新学術領域研究 18H05521 [「言語による時間生成」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-18H05521/)、科研費挑戦的研究（萌芽）[「コーパスからの比喩表現収集とその分析」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18519/)、国立国語研究所コーパス開発センター共同研究プロジェクト、大学共同利用機関法人4機構の異分野融合・新分野創成委員会「機構間連携・異分野連携プロジェクト」として採択した「知性と認識の情報神経物理学」の成果物です。
 
